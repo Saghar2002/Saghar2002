@@ -1,10 +1,13 @@
-Hello, I'm saghar rigi 👋
-Front-end enthusiast 🎉
+# Hello, I'm saghar rigi 👋
+*Front-end enthusiast* 🎉
 
-🌱 My Skills:
-🌐 HTML
-🎨 CSS
-⚙️ JavaScript
-📝 TypeScript
-⚛️ React
-🌬️ TailwindCSS
+
+---
+
+## 🌱 My Skills:
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚙️ **JavaScript**
+- 📝 **TypeScript**
+- ⚛️ **React**
+- 🌬️ **TailwindCSS**
